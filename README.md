@@ -51,3 +51,23 @@ This assignment should take about 2 to 4 hours of your time depending on your le
 
 ## Need Help
 Create a github issue. We'll get back to you.
+
+## Entity Diagram
+![Alt text](./er_diagram.png "a entity diagram")
+
+## Instruction run the code
+
+To run this example, simply do:
+
+```sh
+npm install
+npm run start:dev
+```
+
+* Go to swagger http://localhost:3000/api
+
+* Unit test
+
+```sh
+npm run test
+```
